@@ -18,7 +18,7 @@ This is in fulfillment of the first module of the ETH + AVAX Intermediate course
 
 4. Once that's done, under `Deploy and run transactions`, click on `Deploy` and scroll down to see the deployed contract.
 
-![image](https://github.com/airu411/MC_ETHAVAX-M1_Project-old/assets/159874160/fcb3815e-1391-4e77-a2a7-81aa5d7d7a40) <br>
+![image](https://github.com/airu411/MC_ETHAVAX-M1_Project/assets/159874160/b8422e55-7440-49d0-a0cb-df39c24347cf) <br>
 *Image of the deployed contract*
 
 ### How to Use
